@@ -35,7 +35,7 @@
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "needsErrorInfo": false,
     "mobileBottomRow": 17,
-    "widgetName": "Input1",
+    "widgetName": "First_Input",
     "displayName": "Input",
     "searchTags": [
         "form",
