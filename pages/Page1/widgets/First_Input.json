@@ -57,7 +57,7 @@
     "thumbnailSVG": "/static/media/thumbnail.a4eac1a16753ea7fc54cac7731f9ea6a.svg",
     "widgetId": "qmceppsnns",
     "minWidth": 450,
-    "label": "Label",
+    "label": "Input label",
     "parentId": "0",
     "labelAlignment": "left",
     "renderMode": "CANVAS",
