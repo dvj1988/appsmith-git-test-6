@@ -12,7 +12,17 @@
     "appPositioning": {
       "type": "FIXED"
     },
-    "navigationSetting": {}
+    "navigationSetting": {
+      "showNavbar": true,
+      "orientation": "top",
+      "navStyle": "stacked",
+      "position": "static",
+      "itemStyle": "text",
+      "colorStyle": "light",
+      "logoAssetId": "667bb55c1f6fa85290a72251",
+      "logoConfiguration": "logoAndApplicationTitle",
+      "showSignIn": true
+    }
   },
   "color": "#FFDEDE",
   "icon": "snowy-weather",
